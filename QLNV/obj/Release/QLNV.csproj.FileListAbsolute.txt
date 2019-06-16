@@ -1,0 +1,13 @@
+C:\Users\Le Dat\Desktop\QLNV\QLNV\bin\Release\QLNV.exe.config
+C:\Users\Le Dat\Desktop\QLNV\QLNV\bin\Release\QLNV.exe
+C:\Users\Le Dat\Desktop\QLNV\QLNV\bin\Release\QLNV.pdb
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.csprojAssemblyReference.cache
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.Properties.Resources.resources
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.csproj.GenerateResource.cache
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.exe
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.pdb
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.fLogin.resources
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.fTable.resources
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.fAccount.resources
+C:\Users\Le Dat\Desktop\QLNV\QLNV\obj\Release\QLNV.fAdmin.resources

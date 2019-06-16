@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1BC17A65-3CD2-4BBD-B4A6-F0909EF371AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QLNV/DAO/nvDAO.cs">
+    <Files>
+      <File FileName="QLNV/DAO/pbDAO.cs" Line="1" Column="1" />
+      <File FileName="QLNV/DAO/AccountDAO.cs" Line="1" Column="1" />
+      <File FileName="QLNV/DAO/DataProvider.cs" Line="1" Column="1" />
+      <File FileName="QLNV/DAO/nvDAO.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.QLNV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
